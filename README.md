@@ -100,3 +100,8 @@ Implementações em Java de algoritmos clássicos em grafos aplicados a problema
 ## Observações
 
 As soluções foram desenvolvidas com os algoritmos definidos no enunciado. Cada implementação inclui comentários explicativos, exemplos práticos fundamentados e análise sobre algoritmos alternativos viáveis para o mesmo problema.
+
+## Desenvolvedores
+- Rosenilda Santos da Silva | @rose-del
+- Paulo Sérgio Albino | @PauloPSAS
+- Arthur dos Santos | @Fastusx
